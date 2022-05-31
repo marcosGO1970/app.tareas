@@ -1,0 +1,22 @@
+[
+    {
+        "titulo": "volar",
+        "estado": "terminada"
+    },
+    {
+        "titulo": "armar",
+        "estado": "pendiente"
+    },
+    {
+        "titulo": "mirar",
+        "estado": "pendiente"
+    },
+    {
+        "titulo": "estudiar",
+        "estado": "en proceso"
+    },
+    {
+        "titulo": "nadar",
+        "estado": "pendiente"
+    }
+]
